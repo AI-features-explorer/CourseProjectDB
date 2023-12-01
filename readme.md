@@ -1,4 +1,4 @@
-# Screen Recorder application with Google Drive API
+# Database UI realization
 
 ## `Tables of pawnshop DB`
 
